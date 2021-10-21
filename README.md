@@ -8,5 +8,5 @@ The last parameter will be the letters q, h, w, e, and s which correspond to dur
 
 After the file is read, it should process the output in the wavefilewriter.cpp
 
-Output notes example:
+Output notes example (notes are passed into the wavefiler wirter to produce the file):
 ![output notes](https://user-images.githubusercontent.com/64340009/138232514-3fceb140-ea51-43fc-84ce-127c5e2b1984.png)
